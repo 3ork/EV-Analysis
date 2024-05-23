@@ -2,6 +2,7 @@ USE DATAPROJ
 GO
 
 ---this query selects for the range of all electric vehicles in the list in descending order, filtering out 0's using the where statement.
+
 SELECT 
 	AVG(Electric_Range) AS Average_Range,
 	Make,
