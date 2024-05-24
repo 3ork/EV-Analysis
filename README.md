@@ -6,3 +6,5 @@ The data was aquired from an open source Kaggle Dataset linked here: https://www
 Since all of the data was contained in an individual CSV file, there was no need for joining tables throughout the queries.
 
 For all graphing purposes, the software used was Tableau public.
+
+**The results for each query have been added to the wiki along with additional graphs**
